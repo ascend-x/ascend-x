@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Nandakishore V</h1>
-<h3 align="center">🚀 Aspiring Cybersecurity Specialist|CTF Player|Web Security & Reverse Engineering Enthusiast 🔐</h3>
+<h3 align="center">🚀Aspiring Cybersecurity Specialist| CTF Player| Web Security & Reverse Engineering Enthusiast🔐</h3>
 
 <p align="center">
   <img src="https://github.com/NandakishoreV/NandakishoreV/assets/cybersecurity.gif" width="500"/>
