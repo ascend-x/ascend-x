@@ -23,9 +23,9 @@
 ---
 
 ### 📌 Current Focus  
-🚀 **Cybersecurity Intern at Prodigy InfoTech**  
+🚀 **Growing Cybersecurity Skills**  
 🏆 **Hosting & Participating in Cyber Anzen Club Events**  
-🔥 **Developing a Secure QR-based Attendance System**  
+🔥 **Developing Cybersecurity Projects**  
 
 ---
 
