@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Hi, I'm **Nandakishore V** 
+# Hi, I'm **Nandakishore** 
 
 ### Cybersecurity Engineer | CTF Player | Cloud Security Enthusiast
 
