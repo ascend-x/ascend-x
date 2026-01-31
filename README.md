@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=60&pause=1000&color=F6D4B1&background=52525200&center=true&vCenter=true&width=800&lines=ASCEND_X;NANDAKISHORE_V" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=60&pause=1000&color=F6D4B1&background=52525200&center=true&vCenter=true&width=900&lines=ASCEND_X;NANDAKISHORE_V" alt="Typing SVG" />
 
 <br/>
 
@@ -10,115 +10,114 @@
 
 <div align="center">
 
-#  Hi, I'm **Nandakishore V**
+# Hi, I'm **Nandakishore V** 
 
-### CloudSecOps Engineer | CTF Player | Penetration Tester
+### Cybersecurity Engineer | CTF Player | Cloud Security Enthusiast
 
-<img src="https://img.shields.io/badge/CLOUDSECOPS-SPECIALIST-f6d4b1?style=for-the-badge&logo=googlecloud&logoColor=525252&labelColor=f6d4b1&color=525252"/> <img src="https://img.shields.io/badge/CTF-PLAYER-f6d4b1?style=for-the-badge&logo=hackthebox&logoColor=525252&labelColor=f6d4b1&color=525252"/> <img src="https://img.shields.io/badge/PENTESTER-ACTIVE-f6d4b1?style=for-the-badge&logo=kalilinux&logoColor=525252&labelColor=f6d4b1&color=525252"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-ACTIVE-f6d4b1?style=for-the-badge&logo=linux&logoColor=525252&labelColor=f6d4b1&color=525252"/>
+  <img src="https://img.shields.io/badge/CTF-PLAYER-f6d4b1?style=for-the-badge&logo=hackthebox&logoColor=525252&labelColor=f6d4b1&color=525252"/>
+  <img src="https://img.shields.io/badge/CLOUD-GCP-f6d4b1?style=for-the-badge&logo=googlecloud&logoColor=525252&labelColor=f6d4b1&color=525252"/>
+</p>
 
-<a href="https://ascend-x.dev"><img src="https://img.shields.io/badge/PORTFOLIO-ascend--x.dev-f6d4b1?style=flat-square&logo=firefox&logoColor=525252&labelColor=f6d4b1&color=525252"/></a>
-<a href="https://linkedin.com/in/nkofficial"><img src="https://img.shields.io/badge/LINKEDIN-Connect-f6d4b1?style=flat-square&logo=linkedin&logoColor=525252&labelColor=f6d4b1&color=525252"/></a>
+<p align="center">
+  <a href="https://ascend-x.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ascend--x.dev-f6d4b1?style=for-the-badge&logo=firefox&logoColor=525252&labelColor=f6d4b1&color=525252"/>
+  </a>
+  <a href="https://linkedin.com/in/ascend-x">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-f6d4b1?style=for-the-badge&logo=linkedin&logoColor=525252&labelColor=f6d4b1&color=525252"/>
+  </a>
+</p>
 
 </div>
 
-### 💀 `cat /etc/About_me.conf`
+---
+
+### 💀 `cat /etc/about_me.conf`
 
 ```bash
 ascend-x@github:~$ whoami
 Nandakishore V
-ascend-x@github:~$ git remote -v
-origin  https://github.com/ascend-x/portfolio (fetch)
-origin  https://github.com/ascend-x/ascend-x (push)
+
+ascend-x@github:~$ uname -a
+Linux kali 6.x.x-security #CTF-ready
+
+ascend-x@github:~$ echo $SKILLS
+"Breaking things responsibly since 2024"
+
 ascend-x@github:~$ ▋
 ```
 
-<br/>
-
 ```ini
-[MISSION OBJECTIVE]
-Target          = "CloudSecOps Engineer"
-Specialization  = "Cloud Security, Penetration Testing, & DevSecOps"
-Current_Status  = "Securing the Cloud, Breaking the Box..."
+[MISSION_OBJECTIVE]
+Target          = "Cybersecurity Engineer"
+Focus           = "Cloud Security, Pentesting & DevSecOps"
+Current_Status  = "Learning, Breaking, Fixing, Repeating"
 
-[ATTACK VECTORS] (Skills)
-Cloud_Security  = ["AWS Security", "Azure Security", "GCP Security", "Terraform", "CloudFormation"]
-DevSecOps       = ["Docker", "Kubernetes", "Jenkins", "GitLab CI/CD", "ArgoCD", "Vault"]
-Penetration     = ["Burp Suite", "Metasploit", "Nmap", "SQLMap", "Wireshark", "OWASP Top 10"]
-Scripting       = ["Python", "Bash", "PowerShell", "Go"]
-Security_Tools  = ["Ghidra", "IDA Pro", "Radare2", "GDB", "Frida"]
-SIEM_&_Monitoring = ["Splunk", "ELK Stack", "Prometheus", "Grafana", "CloudWatch"]
+[SKILL_TREE]
+Programming     = ["Python", "C", "C++", "JavaScript", "TypeScript", "Bash"]
+Web_Tech        = ["HTML", "CSS", "ReactJS", "Node.js", "Express.js"]
+Databases       = ["MongoDB", "MySQL"]
 
-[CTF_ARSENAL]
-Platforms       = ["HackTheBox", "TryHackMe", "PicoCTF", "CTFtime"]
-Categories      = ["Web Exploitation", "Binary Exploitation", "Reverse Engineering", "Cryptography", "Forensics"]
-Achievements    = "Active CTF Player | Bug Bounty Hunter"
+[SECURITY_STACK]
+Pentesting      = ["Burp Suite", "Nmap", "sqlmap", "Hydra", "John the Ripper"]
+Reverse_Eng     = ["Ghidra", "GDB"]
+Networking      = ["Wireshark", "TCP/IP", "DNS", "HTTP"]
+Cloud           = ["Google Cloud Platform", "Docker", "GitHub"]
 
-[TRAINING_PROTOCOL]
-Environment     = ["HackTheBox (Active)", "TryHackMe", "PortSwigger Academy", "VulnHub"]
-Daily_Routine   = "Recon -> Exploit -> Escalate -> Secure -> Repeat"
+[LINUX_LIFESTYLE]
+Distros         = ["Kali Linux", "Ubuntu", "Arch (when feeling brave)"]
+Daily_Routine   = "Scan -> Exploit -> Get stuck -> Learn -> Win"
 ```
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-OPERATIVE-f6d4b1?style=for-the-badge&logo=tryhackme&logoColor=525252&labelColor=f6d4b1&color=f6d4b1"/>
-  <img src="https://img.shields.io/badge/HACKTHEBOX-ACTIVE-f6d4b1?style=for-the-badge&logo=hackthebox&logoColor=525252&labelColor=f6d4b1&color=f6d4b1"/>
-  <img src="https://img.shields.io/badge/KALI_LINUX-05-f6d4b1?style=for-the-badge&logo=kalilinux&logoColor=525252&labelColor=f6d4b1&color=f6d4b1"/>
-</div>
-
-<br/>
-
-### `ascend-x@node:~$ ./whoami`
-
-```yaml
-# SYSTEM DIAGNOSTICS
-# ------------------
+```bash
+🧪 ascend-x@ctf-lab:~$ ./status
 User        : ASCEND_X
-Machine     : Kali Linux | Cloud Infrastructure
-Role        : CloudSecOps Engineer | Penetration Tester
-Target      : Cloud Security | CTF Competitions | Bug Bounties
-Current_Loc : IN
-Clearance   : Red Team Operative
+Role        : Cybersecurity Student / CTF Player
+Environment : Linux | Cloud | Browser Tabs (Too Many)
+Focus       : Web Exploitation, Cryptography, RE, Cloud Basics
+Location    : India
+Clearance   : Student Red Team (Coffee Powered)
 ```
 
 ```python
-class CloudSecOpsEngineer:
+class CyberSecurityEngineer:
     def __init__(self):
-        self.username = "ascend-x"
-        self.languages = ["Python", "Bash", "Go", "PowerShell", "C"]
-        self.tools = ["Burp Suite", "Metasploit", "Nmap", "Docker", "Kubernetes", "Terraform"]
-        self.certifications = ["In Progress: OSCP", "CEH", "AWS Security"]
-    
+        self.name = "Nandakishore V"
+        self.languages = ["Python", "C", "C++", "JavaScript", "Bash"]
+        self.tools = [
+            "Burp Suite", "Nmap", "Wireshark",
+            "sqlmap", "Ghidra", "Docker"
+        ]
+        self.platforms = ["TryHackMe", "Hack The Box"]
+
     def current_focus(self):
         return [
-            "Cloud Security Architecture",
-            "Kubernetes Security Hardening",
-            "Web Application Penetration Testing",
-            "CTF Competitions & Writeups",
-            "DevSecOps Pipeline Automation"
+            "Web Application Security",
+            "CTF Challenges & Writeups",
+            "Cloud Security (GCP)",
+            "Linux Internals",
+            "Breaking things without breaking laws"
         ]
-    
+
     def exploit_status(self):
-        return "Scanning for vulnerabilities... 0wn3d!"
+        return "Still hacking. Still learning. Still caffeinated."
 ```
 
-### Mission Log
+### 🧠 Mission Log
 
 | Protocol | Description | Status |
 | :--- | :--- | :--- |
-| **Cloud Security Lab** | Multi-cloud security testing environment (AWS/Azure/GCP) | `IN_PROGRESS` |
-| **CTF Writeups** | Documenting exploitation techniques and methodologies | `ACTIVE` |
-| **DevSecOps Pipeline** | Automated security scanning in CI/CD (Jenkins/GitLab) | `IN_PROGRESS` |
-| **Kubernetes Hardening** | CIS benchmarks implementation & security policies | `IN_PROGRESS` |
-| **Portfolio** | Retro-computer themed personal website (Three.js) | `DEPLOYED` |
-| **Bug Bounty Hunting** | Web app pentesting on HackerOne/Bugcrowd | `ACTIVE` |
+| **CTF Practice** | TryHackMe & Hack The Box challenges | `ACTIVE` |
+| **Web Pentesting** | OWASP Top 10 & lab exploitation | `IN_PROGRESS` |
+| **Cloud Learning** | GCP labs & security fundamentals | `ACTIVE` |
+| **Cyber Projects** | Security tools & dashboards | `DEPLOYED` |
+| **Portfolio** | Retro hacker-themed website | `LIVE` |
+| **Sleep Cycle** | Undefined behavior | `SEGFAULT` |
 
-<br/>
-
-### Status Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ascend-x&bg_color=525252&color=f6d4b1&line=f6d4b1&point=f6d4b1&area=true&hide_border=true" width="100%" />
-
+### 📊 Status Graph
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eW54M3B4Z3V0eG44eG44eG44eG44eG44eG44eG44/Qhe3wZ8w6d8w/giphy.gif" width="100%" height="2px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ascend-x&bg_color=525252&color=f6d4b1&line=f6d4b1&point=f6d4b1&area=true&hide_border=true" width="100%" /> 
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eW54M3B4Z3V0eG44eG44eG44eG44eG44eG44eG44/Qhe3wZ8w6d8w/giphy.gif" width="100%" height="2px" />
 </div>
